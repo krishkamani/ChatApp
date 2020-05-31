@@ -12,6 +12,7 @@ It is an open-source app with real-time messaging using Firebase and Node Js.
 - For Receiver Delete message for me
 - If image then View in full screen
 - Push Notification
+- For profile settings Image cropper functions
 - Powered by Firebase
 - Firebase UI
 - If Any files then download and View it
