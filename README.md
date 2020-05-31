@@ -37,6 +37,8 @@ It is an open-source app with real-time messaging using Firebase and Node Js.
 You can download complete Chat App source code as a <a href="https://github.com/krishkamani/ChatApp/archive/master.zip"> Zip file</a>. 
 you will have to download the complete source code everytime it is updated on the repository.
 
+### Stay Up to date
+It is important for you stay up to date with the new features, latest updates and bug fixing. Ensure to Star( * ) the project on Github and get notified whenever any update coming.
 ## Take this steps to download ChatApp
 Note: Make sure you can use latest android version 3.6
 
