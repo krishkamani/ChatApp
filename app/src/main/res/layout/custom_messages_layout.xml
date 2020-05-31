@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <com.mikhaellopez.circularimageview.CircularImageView
+        android:id="@+id/message_profile_image"
+        android:layout_marginTop="10dp"
+        android:src="@drawable/profile_image"
+        android:layout_width="47dp"
+        android:layout_height="47dp"/>
+    
+    <TextView
+        android:id="@+id/receiver_message_text"
+        android:text="Receiver Messages here"
+        android:layout_alignParentTop="true"
+        android:padding="10dp"
+        android:textSize="14dp"
+        android:textStyle="bold"
+        android:layout_marginTop="10dp"
+        android:layout_toRightOf="@id/message_profile_image"
+        android:background="@drawable/receiver_message_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <ImageView
+        android:id="@+id/message_sender_image_view"
+        android:scaleType="centerCrop"
+        android:layout_margin="5dp"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_alignParentRight="true" />
+
+    <ImageView
+        android:id="@+id/message_receiver_image_view"
+        android:scaleType="centerCrop"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="15dp"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_alignParentLeft="true" />
+    
+    <TextView
+        android:id="@+id/sender_message_text"
+        android:layout_alignParentRight="true"
+        android:text="sender messages"
+        android:textSize="14dp"
+        android:textStyle="bold"
+        android:padding="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_alignParentTop="@+id/receiver_message_text"
+        android:background="@drawable/sender_message_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+</RelativeLayout>
