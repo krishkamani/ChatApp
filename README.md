@@ -3,7 +3,7 @@ It is an open-source app with real-time messaging using Firebase and Node Js.
 
 #### Note: I am working on a new version Android Studio 3.6
 
-<a href="https://www.youtube.com/channel/UCV8auqEr_jx606MqyeyIPpw?sub_confirmation=1">Subscribe</a> My Channel , like video and share to your friends. If you want to learn any new things then comment over that. We will make new video on that As soon As Possible.
+Don't Forget to <a href="https://www.youtube.com/channel/UCV8auqEr_jx606MqyeyIPpw?sub_confirmation=1">Subscribe</a> My Channel , like video and share to your friends. If you want to learn any new things then comment over that. We will make new video on that As soon As Possible.
 
 ## Features:
 - Login with email or Phone Number
